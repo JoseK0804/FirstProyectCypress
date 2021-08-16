@@ -1,0 +1,2 @@
+# Son los archivos que no queremos que se suban a nuestro repositorio de Git
+node_modules/
